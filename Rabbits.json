@@ -1,0 +1,105 @@
+{
+    "rabbits": [
+      {
+        "id": 1,
+        "species": "Snowshoe Hare",
+        "region": "Midwest",
+        "color": "Medium brown and/or white",
+        "coat": "Mostly solid or splotchy",
+        "size": "Small",
+        "ears": "Upright & short",
+        "face shape": "",
+        "body shape":"",
+        "image": "",
+      },
+      {
+        "id": 2,
+        "species": "Marsh Rabbit",
+        "color": "Brown/rust",
+        "size": "Small",
+        "ears": "Upright, very short",
+        "region": "Eastern or Southern Coastal",
+        "image": "https://en.wikipedia.org/wiki/Marsh_rabbit#/media/File:Marsh_Rabbit.jpg",
+      },
+      {
+        "id": 3,
+        "species": "Swamp Rabbit",
+        "color": "Brown/rust",
+        "size": "Small",
+        "ears": "Upright, short",
+        "region": "South Central, Gulf Coast",
+        "image": "https://en.wikipedia.org/wiki/Swamp_rabbit#/media/File:Swamp_Rabbit_(Sylvilagus_aquaticus).jpg"
+      },
+      {
+        "id": 4,
+        "species": "Eastern Cottontail",
+        "color": "Light brown/gray",
+        "size": "Small",
+        "ears": "Upright & short",
+        "region": "",
+        "image": ""
+      },
+      {
+        "id": 5,
+        "species": "Western Cottontail",
+        "color": "Light brown/gray",
+        "size": "Small",
+        "ears": "Upright & medium size",
+        "region": "",
+        "image": ""
+      },
+      {
+        "id": 6,
+        "species": "New England Cottontail",
+        "color": "Light brown/gray",
+        "size": "Small",
+        "ears": "Upright & medium size",
+        "region": "Midwest",
+        "image": ""
+      },
+      {
+        "id": 7,
+        "species": "Domestic Rabbit",
+        "color": "",
+        "size": "",
+        "ears": "",
+        "region": "",
+        "image": ""
+      },
+      {
+        "id": 8,
+        "species": "Prairie Jackrabbit",
+        "color": "Brown/gray",
+        "size": "Large",
+        "ears": "Upright & very tall",
+        "region": "Central, West",
+        "image": "https://en.wikipedia.org/wiki/White-tailed_jackrabbit"
+      },
+      {
+        "id": 9,
+        "species": "Pygmy Rabbit",
+        "color": "Gray",
+        "size": "Very small",
+        "ears": "Upright & short",
+        "region": "West, Midwest",
+        "image": "https://en.wikipedia.org/wiki/Pygmy_rabbit#/media/File:BRACHYLAGUS_IDAHOENSIS.jpg"
+      },
+      {
+        "id": 10,
+        "species": "White-tailed Jackrabbit",
+        "color": "Grey, orange, brown",
+        "region": "West"
+      },
+      {
+        "id": 11,
+        "species": "Black-tailed jackrabbit",
+        "region": "Southwest"
+      },
+      {
+        "id": 12,  
+        "species": "White sided jackrabbit",
+        "region": "Southwest",
+        "coat": "Mostly solid or splotchy",
+      }
+    ]
+  }
